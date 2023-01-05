@@ -47,6 +47,3 @@ Several quick start options are available:
 Read the [Getting started page](/) for information on the framework contents, templates, examples, and more.
 
 
-
-
-
